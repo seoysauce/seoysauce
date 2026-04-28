@@ -27,6 +27,8 @@
 <!-- [![seojeong's 42 stats](https://badge42.herokuapp.com/api/stats/seojeong)](https://github.com/JaeSeoKim/badge42) -->
 ![Seoysauce's GitHub stats](https://github-readme-stats.vercel.app/api?username=seoysauce&show_icons=true&theme=dracula)
 
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=seoysauce&layout=compact&theme=dark)
+
 </div>
 <!--
 **Kitkat-42/Kitkat-42** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
