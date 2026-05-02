@@ -26,9 +26,13 @@
 
 <!-- [![seojeong's 42 stats](https://badge42.herokuapp.com/api/stats/seojeong)](https://github.com/JaeSeoKim/badge42) -->
 <!-- ![Seoysauce's GitHub stats](https://github-readme-stats.vercel.app/api?username=seoysauce&show_icons=true&theme=dracula) -->
-![Seoysauce's GitHub stats](https://github-readme-stats.vercel.app/api?username=seoysauce&show_icons=true&theme=dark&&hide=stars&hide_rank=true&v=2) 
+<!-- ![Seoysauce's GitHub stats](https://github-readme-stats.vercel.app/api?username=seoysauce&show_icons=true&theme=dark&&hide=stars&hide_rank=false&v=2)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=seoysauce&layout=compact&theme=dark&v=2) -->
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=seoysauce&layout=compact&theme=dark&v=2)
+<!-- 개인 Vercel 배포로 변경 -->
+![](https://github-readme-stats-fawn-theta-28.vercel.app/api?username=seoysauce&show_icons=true&hide_rank=true&hide=stars&line_height=24&theme=dark)
+![](https://github-readme-stats-fawn-theta-28.vercel.app/api/top-langs/?username=seoysauce&layout=compact&card_width=320&theme=dark)
+
 
 </div>
 <!--
