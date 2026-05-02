@@ -1,9 +1,3 @@
-<!-- <h2 align="center">Hi, I'm Seoyoung Jeong</h2> -->
-<!-- <div align="center">
-  <div align="left">- 🔭 Front-End Developer  </div>
-  <div align="left">- 🌱 currently learning at 42 Seoul</div>
-  <div align="left">- 📫 How to reach me: <a href="mailto:issyo1022@gmail.com">issyo1022@gmail.com</a></div>
-</div> -->
 <h3 align="center"> 42 Intra ID: seojeong</h3>
 
 <h3 align="center"> 💪Tech Stack</h3>
