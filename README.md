@@ -31,7 +31,7 @@
 
 <!-- 개인 Vercel 배포로 변경 -->
 ![](https://github-readme-stats-fawn-theta-28.vercel.app/api?username=seoysauce&show_icons=true&hide_rank=true&hide=stars&line_height=24&theme=dark)
-![](https://github-readme-stats-fawn-theta-28.vercel.app/api/top-langs/?username=seoysauce&layout=compact&card_width=320&theme=dark)
+![](https://github-readme-stats-fawn-theta-28.vercel.app/api/top-langs/?username=seoysauce&layout=compact&card_width=320&&exclude_repo=42Seoul,ft_printf_temp&theme=dark&v=3)
 
 
 </div>
